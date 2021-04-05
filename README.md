@@ -1,2 +1,2 @@
 # SimplySparkProject
-Simply Spark project in Java using MLib.
+Simply Spark project in Java using MLlib.
